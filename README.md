@@ -16,7 +16,7 @@
 - **14 Linux distros** with version list **live from official mirror**: Ubuntu, Zorin OS, Linux Mint, Fedora, Debian, Kali, Arch, Manjaro, Pop!_OS, EndeavourOS, CachyOS, Rocky Linux, AlmaLinux, openSUSE — each showing capacity, architecture, description...
 ![Ishowspeed](https://i.postimg.cc/XNdXFXX7/Anh-chup-man-hinh-2026-09-20-101744.png)
 - **My ISO** Can't find the operating system you like, or want to install a different one that isn't in the menu? You can install a custom operating system of your choice.
-![MyISO]([https://ibb.co/6Jc2J41z](https://i.postimg.cc/xjMqHqq9/Anh-chup-man-hinh-2026-09-20-101731.png))
+![MyISO](https://i.postimg.cc/xjMqHqq9/Anh-chup-man-hinh-2026-09-20-101731.png)
 
 *Currently the project is still in testing and cannot be released yet to ensure there are no errors, please kindly wait for me to help*
 
