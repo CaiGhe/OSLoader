@@ -1,7 +1,7 @@
 # OS Loader
 
 **OS ISO downloader & patcher for Windows** — single `.exe` file (~7 MB), no installation required
-*Currently have 2 languages:Vietnamese and English,i will update more language soon for everyone in the world!*
+*I took these photos a long time ago, so the latest updates won't look the same as what is shown in the pictures.*
 *I will release a version for Linux later!*
 
 ![OS Loader](https://img.shields.io/badge/Windows-10%2F11-blue) ![Size](https://img.shields.io/badge/size-7MB-green) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
