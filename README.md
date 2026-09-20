@@ -12,7 +12,9 @@
 
 ### 1. Download the official ISO
 - **Windows 11 / Windows 10** — get direct download link from Microsoft server full releases (24H2, 25H2…), editions (Home, Home Single Language, Pro, Education, Pro Education, Pro for Workstations…) and ~30 languages.
-![Win](https://postimg.cc/grcYbzvQ)
+
+![Win](https://i.postimg.cc/kMKD8DDJ/Anh-chup-man-hinh-2026-09-20-101736.png)
+
 - **14 Linux distros** with version list **live from official mirror**: Ubuntu, Zorin OS, Linux Mint, Fedora, Debian, Kali, Arch, Manjaro, Pop!_OS, EndeavourOS, CachyOS, Rocky Linux, AlmaLinux, openSUSE — each showing capacity, architecture, description...
 
 ![Ishowspeed](https://i.postimg.cc/XNdXFXX7/Anh-chup-man-hinh-2026-09-20-101744.png)
