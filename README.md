@@ -4,7 +4,7 @@
 
 *I took these photos a long time ago, so the latest updates won't look the same as what is shown in the pictures.*
 
-*I will release a version for Linux later!*
+*I will release a version for Linux later!*![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ![OS Loader](https://img.shields.io/badge/Windows-10%2F11-blue) ![Size](https://img.shields.io/badge/size-7MB-green) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
