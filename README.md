@@ -6,9 +6,8 @@
 
 *I will release a version for Linux later!*
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-![OS Loader](https://img.shields.io/badge/Windows-10%2F11-blue) ![Size](https://img.shields.io/badge/size-7MB-green) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![OS Loader](https://img.shields.io/badge/Windows-10%2F11-blue) ![LinuxSoonBadge](https://img.shields.io/badge/z-Linux-hihi?style=flat&logo=linux&logoColor=black&logoSize=auto&label=Linux%20Soon!&labelColor=blue&cacheSeconds=36000)  ![Size](https://img.shields.io/badge/size-7MB-green) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ![FullScreenApp](https://i.postimg.cc/HWXj5jjd/Anh-chup-man-hinh-2026-09-20-101549.png)
 
@@ -30,3 +29,5 @@
 *Currently the project is still in testing and cannot be released yet to ensure there are no errors, please kindly wait for me to help*
 
 *App with AI support*
+![Zai](https://img.shields.io/badge/z-AI-hihi?style=flat&logo=zdotai&logoColor=black&logoSize=auto&label=Support%20with%20GLM%205.3&labelColor=gray&cacheSeconds=36000)
+
